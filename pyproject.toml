@@ -3,8 +3,8 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pycolmap"
-version = "0.0.1"
+name = "pycolmapgsplat"
+version = "0.0.2"
 dependencies = [
     "numpy",
     "scipy",
